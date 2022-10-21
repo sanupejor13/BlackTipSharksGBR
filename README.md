@@ -1,4 +1,4 @@
-# The effects of ocean temperature and salinity on the abundance and location of blacktip reef sharks (Carcharhimus melanopterus)
+# The effects of ocean temperature and salinity on the abundance and location of blacktip reef sharks (_Carcharhimus melanopterus_)
 
 ![shark](https://user-images.githubusercontent.com/104873342/197088330-fbc39c37-f922-48ec-b044-92def37d7b02.jpg)
 
